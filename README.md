@@ -1,6 +1,6 @@
 # library_management_system
 This is a java project on library management system.
-Functions Implemented:
+Functions Implemented:\n
   ~SignIn/SignUp
   ~Issue Book
   ~Return Book
